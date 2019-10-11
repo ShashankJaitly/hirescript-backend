@@ -19,3 +19,6 @@ class job(model.Model):
 	job_info = models.TextField(blank=True)
 	experience = models.IntegerField(blank=True)
 
+class farzi():
+	 pass
+
